@@ -15,7 +15,6 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <Main></Main>
-      <h1 className='font-bold text-2xl text-center mt-10'>Customer Support Zone</h1>
       <Footer></Footer>
     </div>
     
