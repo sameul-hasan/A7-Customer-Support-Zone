@@ -3,7 +3,7 @@ import img1 from '../../assets/vector1.png'
 
 const Hero = () => {
     return (
-        <div className='max-w-[1200px] mx-auto flex flex-col lg:flex-row gap-4 '>
+        <div className='max-w-[1200px] mx-auto flex flex-col lg:flex-row gap-4  max-sm:m-4 '>
             <div className='sm:w-1/2 h-auto flex items-center justify-between bg-gradient-to-br from-[#632EE3] to-[#9F62F2] text-white rounded-lg'>
             <img src={img1} alt="" className=" sm:h-full w-1/3" />
             <div className='items-center flex flex-col sm:p-10'>
